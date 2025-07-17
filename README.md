@@ -17,5 +17,3 @@ The final Power BI report highlights key business metrics, trends, and insights 
   - Answered core business questions (e.g., sales trends, top products, customer behavior)  
   - Designed interactive dashboards in Power BI  
 ---
-
-## 🗂 Repository Structure  
